@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! Hi! I'm Steven Moses (he/him), a software engineer, avid concert-goer, literary fiction fan, and proud guitar noodler, currently developing full-stack web apps for small businesses in the SF Bay Area. 
+
+Prior to 2020, music was my life. I was shuffling between many jobs at once, wearing every musical hat possible: director, coordinator, arranger, composer, substitute, you name it. Juggling many projects at once became second nature to me. When the pandemic brought music to a halt, I found myself with a lot of extra time; in that time, I started programming, first with HTML & CSS, then with Javascript, and now to full stack apps in the MERN stack. I began freelancing this year, and am currently orchestrating a full-stack app for directors and ensembles to better find each other. 
 
 <!--
 **moses-codes/moses-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
