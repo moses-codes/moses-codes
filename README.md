@@ -3,9 +3,7 @@
 Prior to 2020, music was my life; when the pandemic brought music to a halt, I found myself with a lot of extra time; in that time, I started programming, first with HTML & CSS, then with Javascript, and now to full stack apps in the MERN stack. I began freelancing this year, and am currently orchestrating my first full stack application.
 
 
-- 🔭 I’m currently working on BATONPASS - a MERN-based full stack app for directors and ensembles to better find each other.  
-
-- 👯 I’m looking to contribute to Open Source software! 
+- 🔭 I've just finished the MVP of BatonPass - a full stack social network app for directors and ensembles to better find each other.  
 
 - 📫 How to reach me: stevenmosesilagan - at - gmail
 <!--
