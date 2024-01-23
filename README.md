@@ -1,11 +1,15 @@
 ### Hello! I'm Steven Moses (😄he/him), a software engineer 👨🏾‍💻, avid concert-goer🎤, literary fiction fan📚, and proud guitar noodler🎸, currently developing full-stack web apps for small businesses in the SF Bay Area. 
 
-Prior to 2020, music was my life; when the pandemic brought music to a halt, I found myself with a lot of extra time; in that time, I started programming, first with HTML & CSS, then with Javascript, and now to full stack apps in the MERN stack. I began freelancing this year, and am currently orchestrating my first full stack application.
+As a freelance musician I lived a life that was busy.  I made the switch to software engineering over the pandemic and have launched a multitude of successful full stack projects!
 
+Take a gander @ some of my projects: 
 
-- 🔭 I've just deployed BatonPass - a full stack social network app for directors and ensembles to better find each other.  Check it out here! <a>https://batonpass.up.railway.app/</a>
+- 📚 ReadingTime - a habit tracker for readers to get a daily reading habit in. Helped me read over 100 books in 2023! [Try it out!](https://readingtime-nextjs.vercel.app/)
+- 🔎 MeepleMatch - a board game finder for nerds. [No more analysis paralysis on game night!](https://meeplematch-blush.vercel.app/en) 
+- 🎸 BatonPass - a full stack social network app for directors and ensembles to better find each other. [Assemble your ensemble!](https://batonpass.up.railway.app)
 
-- 📫 How to reach me: stevenmosesilagan - at - gmail
+- 📫 feel free to email me!
+  
 <!--
 **moses-codes/moses-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
