@@ -4,7 +4,7 @@ As a freelance musician I lived a life that was busy.  I made the switch to soft
 
 Take a gander @ some of my projects: 
 
-- 📚 ReadingTime - a habit tracker for readers to get a daily reading habit in. Helped me read over 100 books in 2023! [Try it out!](https://readingtime-nextjs.vercel.app/)
+- 📚 ReadingTime - a habit tracker to help schedule daily reading. Helped me read over 100 books in 2023! [Reading is fundamental! The library is open!](https://readingtime-nextjs.vercel.app/)
 - 🔎 MeepleMatch - a board game finder for nerds. [No more analysis paralysis on game night!](https://meeplematch-blush.vercel.app/en) 
 - 🎸 BatonPass - a full stack social network app for directors and ensembles to better find each other. [Assemble your ensemble!](https://batonpass.up.railway.app)
 
