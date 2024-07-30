@@ -1,8 +1,6 @@
-### Hello! I'm Steven Moses (😄he/him), a software engineer 👨🏾‍💻, avid concert-goer🎤, literary fiction fan📚, and proud guitar noodler🎸, currently developing full-stack web apps for small businesses in the SF Bay Area. 
+### Hello! I'm Steven Moses (😄he/him), a software engineer 👨🏾‍💻, avid concert-goer🎤, literary fiction fan📚, and proud guitar noodler🎸.
 
-As a freelance musician I lived a life that was busy.  I made the switch to software engineering over the pandemic and have launched a multitude of successful full stack projects!
-
-Take a gander @ some of my projects: 
+Before 2020 I was a freelance musician, working with hundreds of people to bring countless ideas to life. I've taken that creativity & team-oriented spirit to the world of software, creating real projects that help others. Take a gander:
 
 - 📚 ReadingTime - a habit tracker to help schedule daily reading. Helped me read over 100 books in 2023, because reading is what? [FUNDAMENTAL!](https://readingtime-nextjs.vercel.app/)
 - 🔎 MeepleMatch - a board game finder for nerds. [No more analysis paralysis on game night!](https://meeplematch-blush.vercel.app/en) 
