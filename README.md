@@ -2,7 +2,7 @@
 
 Before 2020 I was a freelance musician, working with hundreds of people to bring countless ideas to life. I've taken that creativity & team-oriented spirit to the world of software, creating real projects that help others. Take a gander:
 
-- 📚 ReadingTime - a habit tracker to help schedule daily reading. Helped me read over 100 books in 2023, because reading is what? [FUNDAMENTAL!](https://readingtime-nextjs.vercel.app/)
+- 📚 ReadingTime - a habit tracker to help schedule daily reading. Helped me read over 253 books to date, because reading is what? [FUNDAMENTAL!](https://readingtime-nextjs.vercel.app/)
 - 🔎 MeepleMatch - a board game finder for nerds. [No more analysis paralysis on game night!](https://meeplematch-blush.vercel.app/en) 
 - 🎸 BatonPass - a full stack social network app for directors and ensembles to better find each other. [Assemble your ensemble!](https://batonpass.up.railway.app)
 
