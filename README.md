@@ -4,8 +4,6 @@ Before 2020 I was a freelance musician, working with hundreds of people to bring
 
 - 📚 ReadingTime - a habit tracker to help schedule daily reading. Helped me read over 253 books to date, because reading is what? [FUNDAMENTAL!](https://readingtime-nextjs.vercel.app/)
 - 🔎 MeepleMatch - a board game finder for nerds. [No more analysis paralysis on game night!](https://meeplematch-blush.vercel.app/en) 
-- 🎸 BatonPass - a full stack social network app for directors and ensembles to better find each other. [Assemble your ensemble!](https://batonpass.up.railway.app)
-
 - 📫 feel free to email me!
   
 <!--
