@@ -1,14 +1,11 @@
 ### Hello! I'm Steven Moses (😄he/him), a software engineer 👨🏾‍💻, avid concert-goer🎤, literary fiction fan📚, and proud guitar noodler🎸.
 
-Before 2020 I was a freelance musician, working with hundreds of people to bring countless ideas to life. I've taken that creativity & team-oriented spirit to the world of software, bringing cool tech ideas from 0 to 1. 
-
-fun projects: 
+Before 2020 I was a freelance musician, working with hundreds of people to bring countless ideas to life. I've taken that creativity & team-oriented spirit to the world of software.
 
 - 📚 ReadingTime - a habit tracker to help schedule daily reading. Helped me read over 253 books to date, because reading is what? [FUNDAMENTAL!](https://readingtime-nextjs.vercel.app/)
 - 🔎 MeepleMatch - a board game finder for nerds. [No more analysis paralysis on game night!](https://meeplematch-blush.vercel.app/en)
 - 🤖 MeepleBot - a backend Discord.js boardgame scheduler, [also for nerds.](https://github.com/moses-codes/meeplebot)
 - 🪄 SpellFinder - a no-frills tool for spellcasters [...yes, also for nerds.](https://steviesspellfinder.netlify.app/)
-- 
 - 📫 feel free to email me!
   
 <!--
